@@ -5,18 +5,17 @@
  * @package     pdftpl
  * @author      davidnmnoll
  * @copyright   2016 davidmnoll
- * @license     GPL-2.0+
+ * @license     MIT
  *
  * @dmn-bp
  * Plugin Name: PDF Template
- * Plugin URI:  https://davidmnoll.com/dmn-bp
+ * Plugin URI:  https://github.com/davidmnoll/wp-pdf-tpl
  * Description: Add PDF as a Page Template.
  * Version:     1.0.0
  * Author:      davidmnoll
  * Author URI:  https://davidmnoll.com
  * Text Domain: dmn-bp
- * License:     GPL-2.0+
- * License URI: http://www.gnu.org/licenses/gpl-2.0.txt
+ * License:     MIT
  */
 
 
